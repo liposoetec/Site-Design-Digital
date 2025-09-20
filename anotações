@@ -1,0 +1,17 @@
+detalhes extra: 
+<div id="tendencias" class="detail-screen">
+        <div class="close-btn" onclick="closeDetail()">×</div>
+        <h2>Análise de tendências</h2>
+        <div class="divider"></div>  
+        <div class="introvideo">
+            <div class="text-content">               
+            <p>O design digital é um campo multidisciplinar que combina princípios de design tradicional com tecnologias digitais para criar experiências visuais e interativas.</p>
+            </div>
+
+            <div class="visual-content">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/rMYsjIKPC8g?si=F1BLH-nMP4J7XRSD" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div> 
+        </div>
+         <h3>Metodologia</h3>
+        <p>Utilizamos uma abordagem baseada em pesquisa prática, combinando:</p>
+    </div>
