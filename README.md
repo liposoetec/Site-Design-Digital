@@ -10,7 +10,7 @@ O site busca **iluminar o caminho do aprendizado criativo**, mostrando de forma 
 
 - **Felipe** – Responsável pela programação, integração e estrutura técnica
 - **Enzo** – Responsável pela documentação, pesquisa teórica e organização do conteúdo  
-- **Júlio** – Responsável pelo design visual, identidade gráfica e prototipagem  
+- **Julio** – Responsável pelo design visual, identidade gráfica e prototipagem  
 
 ---
 
